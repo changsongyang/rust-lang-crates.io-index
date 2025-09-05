@@ -1,1 +1,2 @@
 {"name":"solana-svm-log-collector","vers":"3.0.0","deps":[{"name":"log","req":"^0.4.27","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"653640ff91ff2724219e8ec3c599663307d1ece7ff699ffc0342503d09f4bb9f","features":{},"yanked":false}
+{"name":"solana-svm-log-collector","vers":"3.0.1","deps":[{"name":"log","req":"^0.4.27","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"367a11045c057ac2473b986263d7b9893d9b94323a03365fb55df76b38ce8b5b","features":{},"yanked":false}
