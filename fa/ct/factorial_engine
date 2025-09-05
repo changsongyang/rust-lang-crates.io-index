@@ -5,3 +5,4 @@
 {"name":"factorial_engine","vers":"0.1.4","deps":[],"cksum":"a07262dbbd1756cd3302201c7b81fe329923dbbbf0bb4c7a2effd394084b8fb1","features":{},"yanked":false}
 {"name":"factorial_engine","vers":"0.1.5","deps":[],"cksum":"77a22d5da5a23d907e9363a7ac141e75f4ba1d2d36b9167bd2e9a0215414ac2b","features":{},"yanked":false}
 {"name":"factorial_engine","vers":"0.1.6","deps":[],"cksum":"fa7da78c99bb10f8a373fbb48e1954ace8ff365f20587e5232336fc09cc4b1b1","features":{},"yanked":false}
+{"name":"factorial_engine","vers":"0.1.7","deps":[],"cksum":"ee48d52cbd93014b5ba25344778038ef1a76b918713223f163767dc40c479eb9","features":{},"yanked":false}
