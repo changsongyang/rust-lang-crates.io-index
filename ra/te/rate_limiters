@@ -5,3 +5,4 @@
 {"name":"rate_limiters","vers":"0.1.5","deps":[],"cksum":"8e94f467ab90f221674a3daa7c41bd7176a4525abd02935b0530e033a8211de7","features":{},"yanked":false}
 {"name":"rate_limiters","vers":"0.1.6","deps":[],"cksum":"af499c76d62f40b1ae639578fb76c6e93676a59ab21eb04d9965a2800539cf9e","features":{},"yanked":false}
 {"name":"rate_limiters","vers":"0.1.7","deps":[],"cksum":"27d048f2583130b332f5ba71d7d7e8f578cb50e645e046435c69494a3f8737e3","features":{},"yanked":false}
+{"name":"rate_limiters","vers":"0.1.8","deps":[],"cksum":"5470092f44c3f5e2dc4619b87bccb81739ed5e0f93531a843936efc5f1e172ee","features":{},"yanked":false}
