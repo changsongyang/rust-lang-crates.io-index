@@ -17,3 +17,4 @@
 {"name":"in_definite","vers":"0.2.5","deps":[],"cksum":"a96851b632ffcf77665a475d5db144fbba96e41be0ac2b88fe0854869c0220e0","features":{},"yanked":false}
 {"name":"in_definite","vers":"1.0.0","deps":[],"cksum":"b5bd47a3c8188d842aa7ff4dd65a9732f740fcbe04689ecfbfef43c465b381de","features":{},"yanked":false}
 {"name":"in_definite","vers":"1.1.0","deps":[],"cksum":"6074e814346c1a681fc465024ee0ee6797e39d30926f8ebb600faea875841fda","features":{},"yanked":false}
+{"name":"in_definite","vers":"1.1.1","deps":[],"cksum":"6136d4ad4fc3477787904c5672238e75f85cc6a44fa44438e6008e0d1325d19b","features":{},"yanked":false}
