@@ -1,1 +1,2 @@
 {"name":"narlog","vers":"0.1.0","deps":[{"name":"owo-colors","req":"^4.2.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"76ed6049e60b95b0de9171ba16617aa5200036d05e49cad3a0abcc10aa49ae1a","features":{},"yanked":false}
+{"name":"narlog","vers":"0.1.1","deps":[{"name":"owo-colors","req":"^4.2.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0f3b570098ad4c5a71639b0b772971fbf13fac5b5aa7f3f5c36c3e6cc111da24","features":{},"yanked":false}
