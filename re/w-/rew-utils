@@ -5,3 +5,4 @@
 {"name":"rew-utils","vers":"0.0.59","deps":[],"cksum":"bb28396cac671056913eb41cfe44dcd114fc2c1487bdbfaac64cfc11f87182f0","features":{},"yanked":false}
 {"name":"rew-utils","vers":"0.0.60","deps":[],"cksum":"6ecbd72862b016b25829b22d97fef42af06a8bc2296ace617899dbb75d840d1a","features":{},"yanked":false}
 {"name":"rew-utils","vers":"0.0.61","deps":[],"cksum":"f4dee1aa7b406406075d6bf1a45741398360387c921f9bf938691a6a9084c8a5","features":{},"yanked":false}
+{"name":"rew-utils","vers":"0.0.62","deps":[],"cksum":"dabd4a8a5deeb22e75b70923476b357d27a67a5f9934a8154978a71808f16a67","features":{},"yanked":false}
