@@ -4,4 +4,4 @@
 {"name":"flag-rs","vers":"0.7.1","deps":[],"cksum":"df244d61587b4237d7776e367e0128715004b65c8c631e2d11f0077da3048706","features":{},"yanked":false}
 {"name":"flag-rs","vers":"0.7.2","deps":[],"cksum":"13850c3ad028872c2a5a320938bae22d3468f1220506de032ae08b0142a24139","features":{},"yanked":false}
 {"name":"flag-rs","vers":"0.8.0","deps":[],"cksum":"729a575b0724cb70c5f05a0aa21bd2888e538f5f8b30d4671ad3700f38ff16ab","features":{},"yanked":false}
-{"name":"flag-rs","vers":"0.8.1","deps":[],"cksum":"78f87796b2ce36957a5782befdcba55a372eb8cc6701a4623faab26fd35520ce","features":{},"yanked":false}
+{"name":"flag-rs","vers":"0.8.1","deps":[],"cksum":"78f87796b2ce36957a5782befdcba55a372eb8cc6701a4623faab26fd35520ce","features":{},"yanked":true}
