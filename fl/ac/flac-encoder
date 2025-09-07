@@ -1,1 +1,2 @@
 {"name":"flac-encoder","vers":"0.1.0","deps":[{"name":"libflac-sys","req":"^0.3.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"546ccab7a6d38b636ab33ece9c4c413d6f0b5790c890fbb26674d7a19158fb5f","features":{},"yanked":false}
+{"name":"flac-encoder","vers":"0.1.1","deps":[{"name":"libflac-sys","req":"^0.3.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d140095584bb94efbd8a8a85e1d12b7d31e4492ebb2d1079d4f32ff096e3b8c8","features":{},"yanked":false}
