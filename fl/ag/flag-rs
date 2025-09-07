@@ -6,3 +6,4 @@
 {"name":"flag-rs","vers":"0.8.0","deps":[],"cksum":"729a575b0724cb70c5f05a0aa21bd2888e538f5f8b30d4671ad3700f38ff16ab","features":{},"yanked":true}
 {"name":"flag-rs","vers":"0.8.1","deps":[],"cksum":"78f87796b2ce36957a5782befdcba55a372eb8cc6701a4623faab26fd35520ce","features":{},"yanked":true}
 {"name":"flag-rs","vers":"0.8.2","deps":[],"cksum":"6f8c43628b9fe74b1f55f41fe85f717c52d051fa8afc56a39394684bddb20348","features":{},"yanked":false}
+{"name":"flag-rs","vers":"0.8.3","deps":[],"cksum":"7d3600fc130de6c411e1025d7e329f3e2e5f642291c9e45507499d699b5817ff","features":{},"yanked":false}
