@@ -1,1 +1,2 @@
 {"name":"horrorhttp","vers":"0.1.0","deps":[{"name":"readformat","req":"^1.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2d26e18d2d5b97f7fa1ca8feaab0e693f1214dd888f955950de6ea36507fdeb3","features":{},"yanked":false}
+{"name":"horrorhttp","vers":"0.1.1","deps":[{"name":"readformat","req":"^1.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c4e84c2cc44b8370f804b0e5e4088548b744413fa14f7223a41e704994d30323","features":{},"yanked":false}
