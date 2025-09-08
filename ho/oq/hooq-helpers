@@ -1,0 +1,1 @@
+{"name":"hooq-helpers","vers":"0.1.0","deps":[{"name":"toml","req":"^0.9.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"46967c5b04cbf0e6eb9031da4b20c2ea7b0a18407ad942f4c13471f7014efc1a","features":{},"yanked":false,"rust_version":"1.88.0"}
