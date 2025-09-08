@@ -1,1 +1,2 @@
 {"name":"swizzleinator","vers":"0.1.0","deps":[{"name":"paste","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"eba2fdc8a90b617c9b37e12a8493e1c1b7343063bac4029ff959d3d7f881ebba","features":{},"yanked":false}
+{"name":"swizzleinator","vers":"0.2.0","deps":[{"name":"paste","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"40ef6e131232753f78e819781d1e7490d9bb796fdd63c3a9a1609a9221e11abc","features":{},"yanked":false}
