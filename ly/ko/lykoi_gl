@@ -1,0 +1,1 @@
+{"name":"lykoi_gl","vers":"0.0.0","deps":[{"name":"gl","req":"^0.14.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9fc74ad866d560b6bf2d832cd763efb6a1e1ef1fdc8849d11d0a6b3ceca082b4","features":{},"yanked":false}
