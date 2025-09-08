@@ -8,3 +8,4 @@
 {"name":"qbe","vers":"2.3.1","deps":[],"cksum":"a1856c7c02e4a7bf2640d9fe62e75ffbc7f32553b4346b570935d3691a127f0d","features":{},"yanked":false}
 {"name":"qbe","vers":"2.4.0","deps":[],"cksum":"2f9c7d071fcb0b97b2265d239c993e43e4d6ff2d035445dca986578b553d87b6","features":{},"yanked":false}
 {"name":"qbe","vers":"2.5.0","deps":[],"cksum":"c1ce54124980f3c530866c8145401764df3f0c428698f594ba8d634483af66e5","features":{},"yanked":false}
+{"name":"qbe","vers":"2.5.1","deps":[],"cksum":"60adc4f72627fde7472716ecdffeaf9378bd88da3d51e28de40f0aa64615f5f0","features":{},"yanked":false}
