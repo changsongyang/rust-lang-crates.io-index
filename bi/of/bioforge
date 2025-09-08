@@ -1,0 +1,1 @@
+{"name":"bioforge","vers":"0.0.0","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9ef25e5f58e7dce30e04472990da751d1dcf1f154bbb514d5ee1413de04d93ab","features":{},"yanked":false}
