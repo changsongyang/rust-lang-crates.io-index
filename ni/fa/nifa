@@ -1,0 +1,1 @@
+{"name":"nifa","vers":"0.0.1","deps":[{"name":"netdev","req":"^0.37","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d82b93a2fb5088f92d03238196488676c1d2c4fa484a75d63c379d6f568603f9","features":{},"yanked":false}
