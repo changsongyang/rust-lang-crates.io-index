@@ -33,3 +33,4 @@
 {"name":"bin-encode-decode","vers":"1.1.20","deps":[],"cksum":"7ce46bcb0b1a988062b0b193111d3ed182bbc6d3f29e13b6a64dca798da71d4d","features":{},"yanked":false}
 {"name":"bin-encode-decode","vers":"1.1.21","deps":[],"cksum":"3b9d31d9c44ca382294a0c72771bcbc3a9d6bac8e07d13d8b21d61ea1d7366d4","features":{},"yanked":false}
 {"name":"bin-encode-decode","vers":"1.1.22","deps":[],"cksum":"3a99c2ac7047fc4b7f14588d79c29b8de1815fce23dc52acd957aeca9be534a5","features":{},"yanked":false}
+{"name":"bin-encode-decode","vers":"1.1.23","deps":[],"cksum":"69f678269280e796ab01b74e0bafa6a00e00339ed49653bb94651fe1c3478634","features":{},"yanked":false}
