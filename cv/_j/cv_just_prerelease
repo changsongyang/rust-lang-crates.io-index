@@ -3,3 +3,4 @@
 {"name":"cv_just_prerelease","vers":"0.1.0-a.0","deps":[],"cksum":"63858ad8e157565249421c56caa7eb7b2f5913bfcb7756b38ea6cd6540ce2aa1","features":{},"yanked":false}
 {"name":"cv_just_prerelease","vers":"0.1.0-b.2","deps":[],"cksum":"cb94ebed9b7e2d46c192470cfea988cee1eb20ae8a304d0bd2a19fc2f3e180ae","features":{},"yanked":false}
 {"name":"cv_just_prerelease","vers":"0.1.0-a.1","deps":[],"cksum":"6de2330a4a8a5ac1db9dbc6480830e297c4f12eb4325903e6812ff2a94500020","features":{},"yanked":false}
+{"name":"cv_just_prerelease","vers":"0.1.0-a.99","deps":[],"cksum":"daac59bf4dac975f18e096424aa9c5fa9d50de80e5d86c0d1b5ee4fb36811910","features":{},"yanked":false}
