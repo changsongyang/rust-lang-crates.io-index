@@ -4,3 +4,4 @@
 {"name":"mcrs","vers":"0.2.1","deps":[],"cksum":"b0470fc9f3b018551cda329c82dc55d61a64648647e2bb23130a15da280bdc6f","features":{},"yanked":false}
 {"name":"mcrs","vers":"0.3.0","deps":[],"cksum":"4d07a28923451aeb87ad177e530dc374ddeb024fc96c041d627554f9e33b6133","features":{"uds":[]},"yanked":false}
 {"name":"mcrs","vers":"0.4.0","deps":[],"cksum":"5c0eb70d1988f4edae963aaf9fe91f254adf3a583db36defa31b8c8211b217e1","features":{"uds":[]},"yanked":false}
+{"name":"mcrs","vers":"0.4.1","deps":[],"cksum":"b61d1cc47aafd40f49528c8390d28907e1423b61fa6ef376bf4d07af2d6bdb7a","features":{"uds":[]},"yanked":false}
