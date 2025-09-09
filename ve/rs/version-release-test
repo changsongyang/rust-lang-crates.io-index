@@ -10,3 +10,4 @@
 {"name":"version-release-test","vers":"1.0.10","deps":[],"cksum":"dac67f4ed2229fff356df440841cdcf5aee02b19d2a7b747c20c3faf2b8235a2","features":{},"yanked":false}
 {"name":"version-release-test","vers":"1.0.11","deps":[],"cksum":"cd60a9df421304dbda787f9cdd35c6f55a04b52ef30a023ece53f6ac0ca23c8e","features":{},"yanked":false}
 {"name":"version-release-test","vers":"1.0.12","deps":[],"cksum":"a3c21414001a8397cd26077aba179429027acd4014496c8dd2f015edc1fb621e","features":{},"yanked":false}
+{"name":"version-release-test","vers":"1.0.20","deps":[],"cksum":"76e3f4cd87181e3508f4195202b55263fa9de389db7847c367e16eab6cabd6f9","features":{},"yanked":false}
