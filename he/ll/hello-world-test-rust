@@ -5,3 +5,4 @@
 {"name":"hello-world-test-rust","vers":"0.1.4","deps":[],"cksum":"15316920a0057510a5052aa7dc151acc4c819cbb127f2c84c4af5720cfb76ab3","features":{},"yanked":false}
 {"name":"hello-world-test-rust","vers":"2.0.0","deps":[],"cksum":"69c708ab8dc08bab6d17682d6bfdb25a53253501b29292359f178311b8c430ef","features":{},"yanked":false}
 {"name":"hello-world-test-rust","vers":"0.1.5","deps":[],"cksum":"e6f13b9015d19227c27e06bbbd5e01827e1cd31a82cc6a31fc2361fdd7397eb1","features":{},"yanked":false}
+{"name":"hello-world-test-rust","vers":"3.0.0","deps":[],"cksum":"78f7cc31733e6f020d72ea34e980b93ff524ef246a5abf9b0c421c0799b275a4","features":{},"yanked":false}
