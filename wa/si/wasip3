@@ -1,0 +1,1 @@
+{"name":"wasip3","vers":"0.1.0+wasi-0.3.0-rc-2025-08-15","deps":[{"name":"wit-bindgen","req":"^0.45.0","features":["default","async"],"optional":false,"default_features":false,"target":null,"kind":"normal"}],"cksum":"2ee21f758f4bad135d6d09fc28b98512fd5a5e9483262efc299f503fe23d39e6","features":{},"yanked":false,"rust_version":"1.82.0"}
