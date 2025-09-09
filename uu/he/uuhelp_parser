@@ -12,3 +12,4 @@
 {"name":"uuhelp_parser","vers":"0.0.30","deps":[],"cksum":"0bb6d972f580f8223cb7052d8580aea2b7061e368cf476de32ea9457b19459ed","features":{},"yanked":false}
 {"name":"uuhelp_parser","vers":"0.1.0","deps":[],"cksum":"beda381dd5c7927f8682f50b055b0903bb694ba5a4b27fad1b4934bc4fbf7b8d","features":{},"yanked":false}
 {"name":"uuhelp_parser","vers":"0.2.0","deps":[],"cksum":"e54f43a40bcb9c63b41f48698c03ae07604358e707cca7372f1ffa21a0b76a81","features":{},"yanked":false}
+{"name":"uuhelp_parser","vers":"0.2.2","deps":[],"cksum":"9c9e4945611996e885dc4eeae23f3d6f20cfb6e8f4bad4985c2222bbcf9a9745","features":{},"yanked":false}
