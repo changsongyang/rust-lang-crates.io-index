@@ -1,0 +1,1 @@
+{"name":"xuko-misc","vers":"0.1.0","deps":[{"name":"thiserror","req":"^2.0.14","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3f82cccee5a1d6d9876898374ec114f6743de34e0fd15722adb310bf169279e4","features":{},"yanked":false}
