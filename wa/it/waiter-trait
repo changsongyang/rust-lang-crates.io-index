@@ -1,1 +1,2 @@
 {"name":"waiter-trait","vers":"0.1.0","deps":[],"cksum":"4847e5c85e428834a2cf03d8a1a88b37368efe3ef6be0ef5eb93d48f98665b95","features":{"std":[]},"yanked":false}
+{"name":"waiter-trait","vers":"0.2.0","deps":[],"cksum":"069af33f8c952f5ed179c7754fbf8199315a2c17e41960c0bde4965d215ec0e7","features":{"std":[]},"yanked":false}
