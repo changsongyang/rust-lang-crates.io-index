@@ -3,3 +3,4 @@
 {"name":"waiter-trait","vers":"0.3.0","deps":[],"cksum":"a3c65654feed35c099c09759751b6da0d9b609e0d2b9afa405ead529f92610ab","features":{"std":[]},"yanked":false}
 {"name":"waiter-trait","vers":"0.4.0","deps":[],"cksum":"822732a360d0a9eae05a5604aa0931255fc17195c215309fcaefde7c826dc39f","features":{"std":[]},"yanked":false}
 {"name":"waiter-trait","vers":"0.5.1","deps":[{"name":"embedded-hal","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1d250e1761a96d7e188c6298527b43d1dfb6c09d379c50659591e2e945c89d16","features":{"std":[]},"yanked":false}
+{"name":"waiter-trait","vers":"0.5.2","deps":[{"name":"embedded-hal","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"079d4f9dc112617e2fecf62ef3c73f55be93ef4839c2a5a8715978ff52a11a5c","features":{"std":[]},"yanked":false}
