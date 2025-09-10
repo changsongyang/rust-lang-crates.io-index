@@ -1,1 +1,2 @@
 {"name":"rustic-git","vers":"0.1.0","deps":[],"cksum":"e81a0cb63d27e1740c3cf9cf0e816560613183f21fa4c857988bc810ccc5e77f","features":{},"yanked":false}
+{"name":"rustic-git","vers":"0.2.0","deps":[{"name":"chrono","req":"^0.4","features":["serde"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"de7093b31ce45b16d828e93417b371e376d5c22e17c409f7aa655fd9f1e38d74","features":{},"yanked":false}
