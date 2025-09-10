@@ -2,3 +2,4 @@
 {"name":"waiter-trait","vers":"0.2.0","deps":[],"cksum":"069af33f8c952f5ed179c7754fbf8199315a2c17e41960c0bde4965d215ec0e7","features":{"std":[]},"yanked":false}
 {"name":"waiter-trait","vers":"0.3.0","deps":[],"cksum":"a3c65654feed35c099c09759751b6da0d9b609e0d2b9afa405ead529f92610ab","features":{"std":[]},"yanked":false}
 {"name":"waiter-trait","vers":"0.4.0","deps":[],"cksum":"822732a360d0a9eae05a5604aa0931255fc17195c215309fcaefde7c826dc39f","features":{"std":[]},"yanked":false}
+{"name":"waiter-trait","vers":"0.5.1","deps":[{"name":"embedded-hal","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1d250e1761a96d7e188c6298527b43d1dfb6c09d379c50659591e2e945c89d16","features":{"std":[]},"yanked":false}
