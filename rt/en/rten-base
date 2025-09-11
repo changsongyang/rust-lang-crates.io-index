@@ -1,1 +1,2 @@
 {"name":"rten-base","vers":"0.21.0","deps":[{"name":"rayon","req":"^1.7.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"eccdf3e12af564c111bcf435a07d197ad42cb75315f96896b3b3d4572f099f22","features":{},"yanked":false}
+{"name":"rten-base","vers":"0.22.0","deps":[{"name":"rayon","req":"^1.7.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9f1340c0c9d3c801fdf9a9f6e3821844acd97167bfab623db67200d0615e9734","features":{},"yanked":false}
