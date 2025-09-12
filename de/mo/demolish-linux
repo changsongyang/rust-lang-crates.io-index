@@ -1,0 +1,1 @@
+{"name":"demolish-linux","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2.175","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"88a526aa6857d542e43933f993b03e3a36912a49141ff05b407bf4e017f44ef5","features":{},"yanked":false}
