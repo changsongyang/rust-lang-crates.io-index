@@ -1,0 +1,1 @@
+{"name":"snowflake-id-generator","vers":"0.1.0","deps":[{"name":"tokio","req":"^1.47.1","features":["sync","rt","macros"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c4f8b2f372467356485280aea139a9534084b8004235ead27ce84857dbd929de","features":{},"yanked":false}
