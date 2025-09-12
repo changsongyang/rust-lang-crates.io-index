@@ -1,0 +1,1 @@
+{"name":"ambit","vers":"0.1.0","deps":[{"name":"ambit-macros","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"5f1407bf9c2a32e2e0f8011d8f1d991c436a93c39ddea38cad24d29c13a4c444","features":{},"yanked":false}
