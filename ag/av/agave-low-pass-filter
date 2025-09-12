@@ -1,3 +1,4 @@
 {"name":"agave-low-pass-filter","vers":"0.0.0","deps":[],"cksum":"d9c5247f9f08e1c744e7af0a7991b2c8075b96d4c6faa82cf72631b04483a654","features":{},"yanked":false}
 {"name":"agave-low-pass-filter","vers":"3.0.0","deps":[],"cksum":"d9e65bacf9959f602595382cbaafa47bc14e50dae0e8f2e49611e84a854ef143","features":{"agave-unstable-api":[]},"yanked":false}
 {"name":"agave-low-pass-filter","vers":"3.0.1","deps":[],"cksum":"601b4ff81665f1c832babbb9ab74570fccc43d40b8fdd03f4ea8d66f9729624e","features":{"agave-unstable-api":[]},"yanked":false}
+{"name":"agave-low-pass-filter","vers":"3.0.2","deps":[],"cksum":"e62c110324ddb5f8e0b0056d1c50121db0bba5bdafdd82eb33571d84ddbca317","features":{"agave-unstable-api":[]},"yanked":false}
