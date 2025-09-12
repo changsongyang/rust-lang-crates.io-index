@@ -10,3 +10,4 @@
 {"name":"solana-svm-feature-set","vers":"3.0.0","deps":[],"cksum":"ddf9eb327b0d8a9ee79d6a2d4fbbabee76473cc6f1c862bb1ec8b1e0cb9c1307","features":{},"yanked":false}
 {"name":"solana-svm-feature-set","vers":"3.0.1","deps":[],"cksum":"bd3960dd938455056dd9182a1998cb1ed57d77f6aa222c710a074453c3e33e40","features":{},"yanked":false}
 {"name":"solana-svm-feature-set","vers":"2.3.8","deps":[],"cksum":"356b396cc4fdef70ec85672633ca247e811bafa73268f7da031d51311dfcf819","features":{},"yanked":false}
+{"name":"solana-svm-feature-set","vers":"2.3.9","deps":[],"cksum":"b06a4fb330106e6cf16d7e3d238dd4fdfd0accacd5d587f4207cc6fbfe453eb4","features":{},"yanked":false}
