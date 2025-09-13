@@ -1,0 +1,1 @@
+{"name":"binary-codec","vers":"0.1.0","deps":[{"name":"binary-codec-derive","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"402b3fb55273d42dad287464345aa2017238f083345bad79035982f43affb320","features":{},"yanked":false}
