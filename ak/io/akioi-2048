@@ -1,0 +1,1 @@
+{"name":"akioi-2048","vers":"0.4.0","deps":[{"name":"rand","req":"^0.9.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e3c4d002518334dd36b344d7a13e2593bb7bb09e30142a372fd6ec1844b60eaf","features":{},"yanked":false}
