@@ -1,0 +1,1 @@
+{"name":"grid-rs","vers":"0.1.0","deps":[{"name":"grid-rs-macros","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ae97237a72e59c3104e1a69f5b42c6627fb2c776132a3839dbabc55314f95778","features":{},"yanked":false}
