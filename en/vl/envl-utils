@@ -1,3 +1,4 @@
 {"name":"envl-utils","vers":"0.1.0","deps":[],"cksum":"b9bfbd388a3d337e845d5b633509fca2f6c3401719a26212617ba195e2facf55","features":{},"yanked":false,"rust_version":"1.75"}
 {"name":"envl-utils","vers":"0.2.0","deps":[],"cksum":"d479545e31d01cf8e7edef27bd924c5914bc23a40a19843c0e19be0ef9d76d34","features":{},"yanked":false,"rust_version":"1.75"}
 {"name":"envl-utils","vers":"0.3.0","deps":[{"name":"thiserror","req":"^2.0.16","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"2a81c7f68711cfe4b6a34b2c7c156894508add5125abe28ab41216cf2960b61f","features":{},"yanked":false,"rust_version":"1.91.0"}
+{"name":"envl-utils","vers":"0.7.0","deps":[{"name":"thiserror","req":"^2.0.16","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"470012f18a46407075e8fb2ba93d301478e54905d6b35dac45dfe4022f87f399","features":{},"yanked":false,"rust_version":"1.91.0"}
