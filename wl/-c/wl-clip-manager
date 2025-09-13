@@ -1,1 +1,0 @@
-{"name":"wl-clip-manager","vers":"1.0.0","deps":[{"name":"scraper","req":"^0.24.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"83acd8b87a9f3af3f541417e6090f9a1a31d241d1b50a729bd61f3176f674e98","features":{},"yanked":false}
