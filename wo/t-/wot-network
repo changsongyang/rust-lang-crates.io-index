@@ -1,0 +1,1 @@
+{"name":"wot-network","vers":"0.0.1","deps":[{"name":"regex","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1c78507a31693075ddbced2c511fe9bfe822a012124c93555d740748b6281b23","features":{},"yanked":false}
