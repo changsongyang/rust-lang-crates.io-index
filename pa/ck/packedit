@@ -2,3 +2,4 @@
 {"name":"packedit","vers":"1.0.0","deps":[],"cksum":"fd1af246f61696402064ba301f69ffc34aec541f487bb6cbf7f1952a90596f9a","features":{},"yanked":false}
 {"name":"packedit","vers":"1.0.1","deps":[],"cksum":"afa645a2db957ffeab0ab0fa8486598189040b1249b243c8823d4093c45250c4","features":{},"yanked":false}
 {"name":"packedit","vers":"1.0.2","deps":[],"cksum":"4c186d38e567448cebc01fe0a42c7f19427a5b5be63dbc78edd19c9fe37a64a4","features":{},"yanked":false}
+{"name":"packedit","vers":"1.0.3","deps":[],"cksum":"34a638804c9d84b846d6889e2b18afb2e19cfe60d34af3f536aff2fcefb6a366","features":{},"yanked":false}
