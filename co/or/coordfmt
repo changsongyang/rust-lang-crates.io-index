@@ -1,0 +1,1 @@
+{"name":"coordfmt","vers":"0.1.0","deps":[{"name":"regex","req":"^1.11.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3ac7720bfad767af1011eef852690fc8571c553de03782bf3be5638c1bf34836","features":{},"yanked":false}
