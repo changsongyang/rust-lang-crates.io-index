@@ -1,0 +1,1 @@
+{"name":"jazz-accidentals","vers":"0.1.1","deps":[{"name":"once_cell","req":"^1.21.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a67477f589ccdceca244fe14c6f8d9c4a896209310fd824f271d3b1b15c3d01f","features":{},"yanked":false}
