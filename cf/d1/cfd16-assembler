@@ -1,0 +1,1 @@
+{"name":"cfd16-assembler","vers":"0.7.0","deps":[{"name":"cfd16-lib","req":"^0.7.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8ef0159f7311d80683f7c8398505aa0d41737ad9991dc50136560590e3135f5d","features":{},"yanked":false}
