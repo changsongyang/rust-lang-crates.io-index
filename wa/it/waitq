@@ -1,0 +1,1 @@
+{"name":"waitq","vers":"0.0.1","deps":[{"name":"spin","req":"^0.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"thid","req":"^0.0.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"21e0df905c14563bb33544f12b159ca3b4017db058d381b7a50cbfdaa9c995ef","features":{},"yanked":false}
