@@ -1,0 +1,1 @@
+{"name":"simplematch","vers":"0.1.0","deps":[{"name":"rstest","req":"^0.18","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"b7d5f0e77e189fd0b4b43b9e1989450b64a67e3ce1720b143edb7f6dde00cd76","features":{"default":["std"],"std":[]},"yanked":false,"rust_version":"1.62.0"}
