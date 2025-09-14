@@ -11,3 +11,4 @@
 {"name":"xwt-core","vers":"0.7.0","deps":[],"cksum":"ca5d854d3919153033e35d1475632603962f38592cfc7c339e5643deb6ae7481","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false,"rust_version":"1.81"}
 {"name":"xwt-core","vers":"0.8.0","deps":[],"cksum":"fa0319eba7b16aed082e73cfb6de5619cbb7a0a97c05a3866923efb8a6d4cc5c","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false,"rust_version":"1.81"}
 {"name":"xwt-core","vers":"0.8.1","deps":[],"cksum":"0edab9328e68a087ba6e49519c18000eebe47c7c80f98ac535207e9a2b0eacc1","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false,"rust_version":"1.81"}
+{"name":"xwt-core","vers":"0.9.0","deps":[],"cksum":"a7f8515b46b1f2da17080b50744b2c14affab6795dd8a29b56708348839576d6","features":{"alloc":[],"default":["std"],"std":["alloc"]},"yanked":false,"rust_version":"1.81"}
