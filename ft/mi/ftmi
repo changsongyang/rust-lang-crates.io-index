@@ -1,0 +1,1 @@
+{"name":"ftmi","vers":"0.1.0","deps":[{"name":"regex","req":"^1.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"tempfile","req":"^3.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"59fa6b2d69f0ccf660a4b3d355a899a185cc7e83e72f21ccabf58036ab2874a5","features":{},"yanked":false}
