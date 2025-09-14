@@ -1,1 +1,1 @@
-{"name":"rustar","vers":"0.1.2","deps":[],"cksum":"f1c622399c7a92bf87aacc6a15642cd480e5318d288ba6ffa48e5ecb65a342b0","features":{"default":["std"],"std":[]},"yanked":false}
+{"name":"rustar","vers":"0.1.2","deps":[],"cksum":"f1c622399c7a92bf87aacc6a15642cd480e5318d288ba6ffa48e5ecb65a342b0","features":{"default":["std"],"std":[]},"yanked":true}
