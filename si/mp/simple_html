@@ -7,3 +7,4 @@
 {"name":"simple_html","vers":"0.1.6","deps":[],"cksum":"3dcd0c3dc29940ed465af91aa29818be5362a533597f500bda057fad40fcf829","features":{},"yanked":false}
 {"name":"simple_html","vers":"0.1.7","deps":[],"cksum":"4906a872e878685256dc82ab3db451ede21b747aeb075b2c1d9615e8675d4e7a","features":{},"yanked":false}
 {"name":"simple_html","vers":"0.1.8","deps":[],"cksum":"83fa2810cd75c1f42761698040e56043ace15deeedcf8a8c0c2c9a039a139804","features":{},"yanked":false}
+{"name":"simple_html","vers":"0.1.9","deps":[],"cksum":"c48dc7a22437636ee28316ecd554ba691361e2703dcee88efe38a8898d7c83be","features":{},"yanked":false}
