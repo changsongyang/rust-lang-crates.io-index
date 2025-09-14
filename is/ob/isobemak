@@ -1,0 +1,1 @@
+{"name":"isobemak","vers":"0.1.0","deps":[{"name":"fatfs","req":"^0.3.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4f0ceda3ba3e535e25dedc76e15b2a4262bca41680307a4c235c48be40973234","features":{},"yanked":false}
