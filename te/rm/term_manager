@@ -1,0 +1,1 @@
+{"name":"term_manager","vers":"0.1.0","deps":[{"name":"libc","req":"^0.2.175","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"780665c1fcf65347c1350be742d7b0d5af0f55c2e2fa1d91e5db7860d0c7d11a","features":{},"yanked":false}
