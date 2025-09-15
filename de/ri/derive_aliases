@@ -1,3 +1,4 @@
 {"name":"derive_aliases","vers":"0.1.0","deps":[],"cksum":"813fcacea5e6061979cb1cddb67f1c5e654c1ff0e64139867a51f8af88dec2c2","features":{"workspace":[]},"yanked":false}
 {"name":"derive_aliases","vers":"0.1.1","deps":[],"cksum":"14e5bdbe9828a00d2e8919b9ee8c045418f5ae67d1d7efc668a7fa0015bbc4a3","features":{"workspace":[]},"yanked":false}
 {"name":"derive_aliases","vers":"0.2.0","deps":[],"cksum":"b940deb5ac53a77071251fe80f103e1189768045b423bfb7d06974a0bc8b784a","features":{"workspace":[]},"yanked":false}
+{"name":"derive_aliases","vers":"0.2.1","deps":[{"name":"strsim","req":"^0.11","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4d242bc6ae4cab03285358e87f52942673deb517aceac89fb0bbc68e7ce3e944","features":{"workspace":[]},"yanked":false,"rust_version":"1.80"}
