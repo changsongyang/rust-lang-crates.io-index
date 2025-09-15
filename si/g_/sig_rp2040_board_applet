@@ -1,0 +1,1 @@
+{"name":"sig_rp2040_board_applet","vers":"0.1.1","deps":[{"name":"serde","req":"^1.0.219","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6fed75de0b7a52e36f12b449983027b75efaa37441853e6e6f9a9faaff84675a","features":{},"yanked":false}
