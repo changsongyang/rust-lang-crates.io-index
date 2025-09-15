@@ -1,1 +1,2 @@
 {"name":"derive_aliases","vers":"0.1.0","deps":[],"cksum":"813fcacea5e6061979cb1cddb67f1c5e654c1ff0e64139867a51f8af88dec2c2","features":{"workspace":[]},"yanked":false}
+{"name":"derive_aliases","vers":"0.1.1","deps":[],"cksum":"14e5bdbe9828a00d2e8919b9ee8c045418f5ae67d1d7efc668a7fa0015bbc4a3","features":{"workspace":[]},"yanked":false}
