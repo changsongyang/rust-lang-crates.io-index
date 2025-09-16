@@ -1,0 +1,1 @@
+{"name":"fake-main","vers":"0.1.0","deps":[{"name":"proc-macro2","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"quote","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1cf34b25d5dbfe3cd4dc76422d9326607643b48c79bd789f22bc8482c8c323c1","features":{},"yanked":false}
