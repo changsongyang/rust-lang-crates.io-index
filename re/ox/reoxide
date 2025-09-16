@@ -1,0 +1,1 @@
+{"name":"reoxide","vers":"0.6.1","deps":[{"name":"reoxide-proc","req":"^0.6.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"449f7d36b428b17699ac229b1aaee251abfc937ce72e5f11583acb6c56ae7f4d","features":{},"yanked":false,"links":"reoxide"}
