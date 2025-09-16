@@ -1,0 +1,1 @@
+{"name":"freedesktop-core","vers":"0.0.1","deps":[{"name":"dirs","req":"^6.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bdd763314792dbcb7015bdaa89fe55558bce4d3dfcfc4c026c2abb82b2a9b07f","features":{},"yanked":false,"rust_version":"1.89"}
