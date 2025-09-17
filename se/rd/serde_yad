@@ -1,0 +1,1 @@
+{"name":"serde_yad","vers":"0.1.0","deps":[{"name":"yad_core","req":"=2.0.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"6e8d663ca4f9d88f4d802dfc746094ba7276cf6cfaffee232bf28096f730570f","features":{},"yanked":false}
