@@ -1,0 +1,1 @@
+{"name":"uricrypt","vers":"0.1.0","deps":[{"name":"base64","req":"^0.22","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"sha3","req":"^0.10","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"917c7b0adfaa1babc1ce4b46eb8e4730364a835b73effab0e100724a8a245422","features":{},"yanked":false}
