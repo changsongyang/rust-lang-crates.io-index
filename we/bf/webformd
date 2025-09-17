@@ -1,0 +1,1 @@
+{"name":"webformd","vers":"0.1.2","deps":[{"name":"webformd_macros","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a2c89636756f39cfe505f5573e71cebd0a9886d1502d5b275051a1e4dbcfca5a","features":{},"yanked":false}
