@@ -12,3 +12,4 @@
 {"name":"ic_mple_utils","vers":"0.11.3","deps":[],"cksum":"142ca0b232f5d4a79e9451b6f0fcb41c284e1b3971481f1aa83ac5264e67cb2a","features":{},"yanked":false}
 {"name":"ic_mple_utils","vers":"0.12.0","deps":[],"cksum":"5eaefa4897ab08f2525ec58a8d6eb739627ed1ed7e9f0f56b50b99be4a284a3b","features":{},"yanked":false}
 {"name":"ic_mple_utils","vers":"0.12.1","deps":[],"cksum":"7c6a5a53d94359fb4a82b1882c415a50b3c4813ddc5990034652ca701973249b","features":{},"yanked":false}
+{"name":"ic_mple_utils","vers":"0.12.2","deps":[],"cksum":"a18fb386d74bd7a6ac8c0d7ed3710a44260297b2e4029256c9a51bd4a209d695","features":{},"yanked":false}
