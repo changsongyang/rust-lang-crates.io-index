@@ -1,0 +1,1 @@
+{"name":"b256","vers":"0.1.0","deps":[],"cksum":"01ab5aabcccda5d37d8661f70eea13ddd4be01d519cfc8eeea40d0fd429967b3","features":{"default":["std"],"std":[]},"yanked":false}
