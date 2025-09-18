@@ -1,3 +1,4 @@
 {"name":"b256","vers":"0.1.0","deps":[],"cksum":"01ab5aabcccda5d37d8661f70eea13ddd4be01d519cfc8eeea40d0fd429967b3","features":{"default":["std"],"std":[]},"yanked":false}
 {"name":"b256","vers":"0.1.1","deps":[],"cksum":"22e318a58bed578c9b8f0215c95743e0071af4278ac0ab8a106cd26064606190","features":{"default":["std"],"std":[]},"yanked":false}
 {"name":"b256","vers":"0.1.2","deps":[],"cksum":"f7f98e6789791b3431b436475f49554eef849b4f72b448689c02809b15959c04","features":{"default":["std"],"std":[]},"yanked":false}
+{"name":"b256","vers":"0.2.0","deps":[],"cksum":"410168b1c71e96b691f19c2f99957e0533cf380f33acb05f22f484bd779a70a5","features":{"default":["std"],"std":[]},"yanked":false}
