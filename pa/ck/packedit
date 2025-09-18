@@ -4,3 +4,4 @@
 {"name":"packedit","vers":"1.0.2","deps":[],"cksum":"4c186d38e567448cebc01fe0a42c7f19427a5b5be63dbc78edd19c9fe37a64a4","features":{},"yanked":false}
 {"name":"packedit","vers":"1.0.3","deps":[],"cksum":"34a638804c9d84b846d6889e2b18afb2e19cfe60d34af3f536aff2fcefb6a366","features":{},"yanked":false}
 {"name":"packedit","vers":"1.0.4","deps":[],"cksum":"68d400b8b3e3bd233da0f6986675548d103606eb0825adb223342447894455aa","features":{},"yanked":false}
+{"name":"packedit","vers":"1.0.5","deps":[],"cksum":"7fe06164de352179a57dd560d11408f02527fdbdfa8a0fc34613c0ebf1458936","features":{},"yanked":false}
