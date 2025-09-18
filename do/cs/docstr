@@ -1,0 +1,1 @@
+{"name":"docstr","vers":"0.1.0","deps":[{"name":"litrs","req":"^0.5","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"dbd5e447243bc15101db9b42eb0ea96124e4951e9bab4f0034815af68f0a67eb","features":{},"yanked":false,"rust_version":"1.56"}
