@@ -1,0 +1,1 @@
+{"name":"markdown-cleaner","vers":"0.1.0","deps":[{"name":"fancy-regex","req":"^0.16.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d2ffd9b320ccc5c36f85b7a023a5ae3e25edbab6f0226577dac0ac16712359db","features":{},"yanked":false}
