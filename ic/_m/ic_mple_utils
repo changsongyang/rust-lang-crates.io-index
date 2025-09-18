@@ -14,3 +14,4 @@
 {"name":"ic_mple_utils","vers":"0.12.1","deps":[],"cksum":"7c6a5a53d94359fb4a82b1882c415a50b3c4813ddc5990034652ca701973249b","features":{},"yanked":false}
 {"name":"ic_mple_utils","vers":"0.12.2","deps":[],"cksum":"a18fb386d74bd7a6ac8c0d7ed3710a44260297b2e4029256c9a51bd4a209d695","features":{},"yanked":false}
 {"name":"ic_mple_utils","vers":"0.12.3","deps":[],"cksum":"884e3f5de36d1d662f5cb407ae7362b4dd80e3efe7fb64fe3c704ef34a8e7c42","features":{},"yanked":false}
+{"name":"ic_mple_utils","vers":"0.12.4","deps":[],"cksum":"1e154f24880d15a81675a01cd5abd7a27856db116fcf46d719d8d592de9d1585","features":{},"yanked":false}
