@@ -1,0 +1,1 @@
+{"name":"fsnav","vers":"0.1.0","deps":[{"name":"anyhow","req":"^1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"crossterm","req":"^0.28","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3971835218cd4b00ff829f95ea5bcd1df32ad1e318a3122aae12ded85bc0ee8b","features":{},"yanked":false}
