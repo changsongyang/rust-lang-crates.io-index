@@ -2,3 +2,4 @@
 {"name":"solana-svm-measure","vers":"3.0.0","deps":[],"cksum":"a7602d9a00074a418c8dae0024e4e213b68f44fb7e7aca3cc65bc99cb9145bd8","features":{},"yanked":false}
 {"name":"solana-svm-measure","vers":"3.0.1","deps":[],"cksum":"44b03addc5d3581c95514456ef8325f8d05ea0bf151f2ef132b6baafaa015899","features":{},"yanked":false}
 {"name":"solana-svm-measure","vers":"3.0.2","deps":[],"cksum":"0e592ad66e4e79d15fb59043b3c6cc77bec45cdb808d7a56e0070835d8e055c1","features":{},"yanked":false}
+{"name":"solana-svm-measure","vers":"3.0.3","deps":[],"cksum":"444d4584db90598ed2fda524153a7fedba3ff8cbabd59d381be2980643fb26dd","features":{},"yanked":false}
