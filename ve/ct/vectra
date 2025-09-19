@@ -1,1 +1,2 @@
 {"name":"vectra","vers":"0.1.0","deps":[{"name":"rand","req":"^0.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a21a0ef454d21eefa8ddfb924b282f0af0fa23c951817ead0af190eeb5a0d441","features":{},"yanked":false}
+{"name":"vectra","vers":"0.1.1","deps":[{"name":"rand","req":"^0.9","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"556d7957132f355ab503e6eea853c219bf5e872a5d50d06b4d01153cd54f16ab","features":{},"yanked":false}
