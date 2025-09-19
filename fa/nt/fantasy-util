@@ -6,4 +6,4 @@
 {"name":"fantasy-util","vers":"0.1.5","deps":[],"cksum":"2df09505eb6faa9e0544fa8a210eb04f6917ccddc2a5d74c91d26b1ba6dbfd2b","features":{},"yanked":false}
 {"name":"fantasy-util","vers":"0.1.6","deps":[],"cksum":"6df4f14c4219c03eacaca8e1bcead87637457b81646ba2fd5956c0ec1d5d4f41","features":{},"yanked":false}
 {"name":"fantasy-util","vers":"0.1.8","deps":[],"cksum":"5b710c60aaf189d1ff663d241b383f17c7d9540ac3a6ca22f4a02f5788fe52ba","features":{},"yanked":false}
-{"name":"fantasy-util","vers":"0.2.0","deps":[{"name":"tokio","req":"^1","features":["rt","macros","io-util"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"320b5649dfb9550f5273f1e03a5f54046eff48839060988b6933c80e83fbb658","features":{},"features2":{"asyncio":["dep:tokio"]},"yanked":false,"v":2}
+{"name":"fantasy-util","vers":"0.2.0","deps":[{"name":"tokio","req":"^1","features":["rt","macros","io-util"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"320b5649dfb9550f5273f1e03a5f54046eff48839060988b6933c80e83fbb658","features":{},"features2":{"asyncio":["dep:tokio"]},"yanked":true,"v":2}
