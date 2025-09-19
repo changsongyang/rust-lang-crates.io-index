@@ -1,3 +1,4 @@
 {"name":"lykoi_data","vers":"0.0.0","deps":[],"cksum":"7d62b316805fc6f22946bda0740f7d49eb9bf5f31f8d2cc5a4eeb5f700d2e753","features":{},"yanked":false}
 {"name":"lykoi_data","vers":"0.1.0","deps":[{"name":"num","req":"^0.4.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"e3790571f3a29031358e8257fe5f2b954c9f67d38fea1258ae580b60a578668d","features":{},"yanked":false}
 {"name":"lykoi_data","vers":"0.2.0","deps":[{"name":"num","req":"^0.4.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"1d04fe1a843e518bf92987dc8df052bf07f65f487cdcefdf107a7de79069976a","features":{},"yanked":false}
+{"name":"lykoi_data","vers":"0.3.0","deps":[{"name":"num-traits","req":"^0.2.19","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"64d896aabf2e96389dff03e05d0e78b7ec13e6f65b199711ab347ecebf3f5ea4","features":{},"yanked":false}
