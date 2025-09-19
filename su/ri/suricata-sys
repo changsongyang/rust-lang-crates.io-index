@@ -2,3 +2,4 @@
 {"name":"suricata-sys","vers":"8.0.0-rc1","deps":[],"cksum":"70416b8473341c01670b892b6c86067affe8be7e9300fc78b290078ca00b0417","features":{},"yanked":true}
 {"name":"suricata-sys","vers":"8.0.0-rc1.1","deps":[],"cksum":"52a0964578e7716d161300a982c58f5a34f8bf0c18915574738280ec702bc4e7","features":{},"yanked":false}
 {"name":"suricata-sys","vers":"8.0.0","deps":[],"cksum":"5b7e24938af4d4d5da41d3eee6711318d8b47bf57ab814210aa5be30de34db44","features":{},"yanked":false}
+{"name":"suricata-sys","vers":"8.0.1","deps":[],"cksum":"87934d92c250ed84074356edebedba47da231cbbd078962d6f52dc34e8633050","features":{},"yanked":false}
