@@ -1,1 +1,2 @@
 {"name":"arri_common","vers":"1.1.10","deps":[{"name":"heck","req":"^0.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3b30ce66b4b0ab7517e09648a6650f83ec0f8dbea20b07a2e6e12f0d31b19add","features":{},"yanked":false}
+{"name":"arri_common","vers":"1.1.13","deps":[{"name":"heck","req":"^0.5.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"263b6ead896e3dc263b93d8d9959eea0d703b91fe9345edc3ea3702dc3e38757","features":{},"yanked":false}
