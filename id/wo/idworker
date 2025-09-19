@@ -1,1 +1,2 @@
 {"name":"idworker","vers":"0.1.0","deps":[{"name":"criterion","req":"^0.7.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"770a260f65af2dd12fc0dad47709e3b76b267765eccdeae635c2bb98a62257e7","features":{},"yanked":false}
+{"name":"idworker","vers":"0.1.1","deps":[{"name":"criterion","req":"^0.7.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"dev"}],"cksum":"0ae9f2c865fc982a146654ef85cdd5c629021118cd8a6d23202cd70aa934c54c","features":{},"yanked":false}
