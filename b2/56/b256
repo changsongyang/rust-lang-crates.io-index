@@ -6,3 +6,4 @@
 {"name":"b256","vers":"0.2.2","deps":[],"cksum":"5513f4e70195ccd351aae8ddd8107983b7831b6d7537e6c14e8799370d5eae35","features":{"default":["std"],"std":[]},"yanked":false}
 {"name":"b256","vers":"0.2.3","deps":[],"cksum":"48dd4ad11342635dd0c67ed5b3dbdaf37c40a2178d1ed784204ec897112861cd","features":{"default":["std"],"std":[]},"yanked":false}
 {"name":"b256","vers":"0.3.0","deps":[],"cksum":"3d7d6c9f4225eb3a6fdaa83ee201ff4123386b939f67a139ca00bdc3e59ee175","features":{"default":["std"],"std":[]},"yanked":false}
+{"name":"b256","vers":"0.3.1","deps":[],"cksum":"e7b29fffff35ce315dea10a8ab77e455ff92bffb192c1f4fe2ff2907193319fc","features":{"default":["std"],"std":[]},"yanked":false}
