@@ -8,3 +8,4 @@
 {"name":"conspire","vers":"0.5.7","deps":[],"cksum":"cf00aea0a3430da50eb2120a627213afe19743221073f56b16daf2a54345ba86","features":{"constitutive":["mechanics"],"fem":["constitutive"],"math":[],"mechanics":["math"]},"yanked":false}
 {"name":"conspire","vers":"0.5.8","deps":[],"cksum":"243c0934483a7b301f7489f6563c8e729970a94dc7058f03c65fd63feb629e21","features":{"constitutive":["mechanics"],"doc":[],"fem":["constitutive"],"math":[],"mechanics":["math"]},"yanked":false}
 {"name":"conspire","vers":"0.5.9","deps":[],"cksum":"273cd83e7b84f1c610be9c8baa067e588934978d8cc146be69ee5f36ea501e68","features":{"constitutive":["mechanics"],"doc":[],"fem":["constitutive"],"math":[],"mechanics":["math"]},"yanked":false}
+{"name":"conspire","vers":"0.5.10","deps":[],"cksum":"495550cb90cbe531a8ae1c3b2315e3f6ea431c581c626ee3fbeac62921d04b84","features":{"constitutive":["mechanics"],"doc":[],"fem":["constitutive"],"math":[],"mechanics":["math"]},"yanked":false}
