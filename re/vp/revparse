@@ -22,3 +22,4 @@
 {"name":"revparse","vers":"2.2.2","deps":[],"cksum":"b640ea92da1859dd254a091059c5320fac45f8ae428e50e1d5759a2c758e3201","features":{},"yanked":false}
 {"name":"revparse","vers":"2.2.3","deps":[],"cksum":"46f1bf6fcc69d73992977218f7f9cd32bc337bddbde5098f04198398c80c4a63","features":{},"yanked":false}
 {"name":"revparse","vers":"2.2.4","deps":[],"cksum":"98491dfc8fce9b4f7edec4e42e4652bab3316d229169ee40845ce4555f5557b9","features":{},"yanked":false}
+{"name":"revparse","vers":"2.2.5","deps":[],"cksum":"207754ab51525430fffac9aea06d8a8974768b41f00d351f47f44107c084ddad","features":{},"yanked":false}
