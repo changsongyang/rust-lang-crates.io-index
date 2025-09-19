@@ -1,0 +1,1 @@
+{"name":"mairie360_api_lib","vers":"0.1.0","deps":[{"name":"once_cell","req":"^1.21.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9cb2a5dde32b23b5d7d2ca4612b0f4a8536a2b47d4b6156b1554e5fcdc562995","features":{},"yanked":false}
