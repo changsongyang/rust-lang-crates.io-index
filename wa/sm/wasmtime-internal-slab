@@ -2,3 +2,4 @@
 {"name":"wasmtime-internal-slab","vers":"36.0.0","deps":[],"cksum":"ed679bdf3b07cef5ff0f24f388279444354a69b0655e83d93c0641c737ba0ea1","features":{},"yanked":false,"rust_version":"1.86.0"}
 {"name":"wasmtime-internal-slab","vers":"36.0.1","deps":[],"cksum":"8e701cdea321a3c288990dcc1ed7b4c89d120e10bf50052e942243251e710c42","features":{},"yanked":false,"rust_version":"1.86.0"}
 {"name":"wasmtime-internal-slab","vers":"36.0.2","deps":[],"cksum":"6d152a7b875d62e395bfe0ae7d12e7b47cd332eb380353cce3eb831f9843731d","features":{},"yanked":false,"rust_version":"1.86.0"}
+{"name":"wasmtime-internal-slab","vers":"37.0.0","deps":[],"cksum":"41364714f23643bbc4df28ab4f63573c48a6f2d6b841a74cdb98380b7e4d3682","features":{},"yanked":false,"rust_version":"1.87.0"}
