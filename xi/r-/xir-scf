@@ -1,0 +1,1 @@
+{"name":"xir-scf","vers":"0.1.0","deps":[{"name":"xir","req":"^0.1.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8adb2ed34db31dde566b6189ef30dd30ded25b23254d8042232a7ac0102cd5eb","features":{},"yanked":false}
