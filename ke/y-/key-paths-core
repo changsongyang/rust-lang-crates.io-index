@@ -4,3 +4,4 @@
 {"name":"key-paths-core","vers":"0.5.0","deps":[],"cksum":"fb316afd6ba18221afba0e92117e061786b421fc5ca7f9b754a2ee1032878544","features":{},"yanked":false}
 {"name":"key-paths-core","vers":"0.6.0","deps":[],"cksum":"b1d6b359c8bbe63d280f74c418a56935e2b4f93e316981282e27b811004bc153","features":{},"yanked":false}
 {"name":"key-paths-core","vers":"0.7.0","deps":[],"cksum":"b45d070ef33558f55ea4f2e680492e17a45e0b61d59c50378c6211de2a2dfb17","features":{},"yanked":false}
+{"name":"key-paths-core","vers":"0.8.0","deps":[],"cksum":"6def0dabed41a563fcb7f89757e259e1aa3ee264416fc23355a06ee758c0a20c","features":{},"yanked":false}
