@@ -1,0 +1,1 @@
+{"name":"repl_lib","vers":"0.1.0","deps":[{"name":"term_manager","req":"^0.1.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"c4aaad09868fe626801652cb2524d46b86aa369f146218a703cc8f57751c067d","features":{},"yanked":false}
