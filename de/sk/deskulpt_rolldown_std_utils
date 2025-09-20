@@ -1,1 +1,0 @@
-{"name":"deskulpt_rolldown_std_utils","vers":"0.1.0","deps":[{"name":"regex","req":"^1.11.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"0d396a9891b5ace9ccae611ecaecd170c8e67d66e655181cade963dee704802f","features":{},"yanked":false}
