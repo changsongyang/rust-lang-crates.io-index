@@ -12,3 +12,4 @@
 {"name":"ESRP_Release_FirstLight","vers":"0.1.0-g99826589b0e64b54","deps":[],"cksum":"24d8291a2d801d64b36161a1c3c23803d530423dd1bd67a27d2710937a2f27ec","features":{},"yanked":false}
 {"name":"ESRP_Release_FirstLight","vers":"0.1.0-g41ccad8f36474d8e","deps":[],"cksum":"1c74b4539d06a3c7c5a997abecd9040db6a8c5b01597f8bc3d55a93816ee7db1","features":{},"yanked":false}
 {"name":"ESRP_Release_FirstLight","vers":"0.1.0-gc228943cb9244103","deps":[],"cksum":"d7fce2e36047c3fc5d25b1bc75b6ebcc164f46e0b73e0f1920db87ae1460a94c","features":{},"yanked":false}
+{"name":"ESRP_Release_FirstLight","vers":"0.1.0-g8e7b0c825a014b58","deps":[],"cksum":"91dddfd48c042dc3d12a59906e7783a6ce9eafdfae4cb07932679a218e60078b","features":{},"yanked":false}
