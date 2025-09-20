@@ -2,3 +2,4 @@
 {"name":"wasmtime-internal-wmemcheck","vers":"36.0.0","deps":[],"cksum":"1598e246ecefd5377ec48969b7e8546e50714ce9051343877a0cb1e37a70391f","features":{},"yanked":false,"rust_version":"1.86.0"}
 {"name":"wasmtime-internal-wmemcheck","vers":"36.0.1","deps":[],"cksum":"335d81b6f14b3e26c559b9d7f1514afb55582608e5816206eada31079cf7ef15","features":{},"yanked":false,"rust_version":"1.86.0"}
 {"name":"wasmtime-internal-wmemcheck","vers":"36.0.2","deps":[],"cksum":"e0afc026a0e08f4f1b8fc07ab52c12e04b33afe590e55596163db233702c12a5","features":{},"yanked":false,"rust_version":"1.86.0"}
+{"name":"wasmtime-internal-wmemcheck","vers":"37.0.0","deps":[],"cksum":"8a8a407a60e59ac3ae998cd34ece89d0643801b98ae6c49ea5996aad35a6c3bb","features":{},"yanked":false,"rust_version":"1.87.0"}
