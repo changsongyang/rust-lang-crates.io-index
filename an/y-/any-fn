@@ -13,3 +13,4 @@
 {"name":"any-fn","vers":"0.6.0","deps":[],"cksum":"9f4885fe7295a354470225f0f95050e4efe39930f3ecf81072d4e65782058a0b","features":{},"yanked":false}
 {"name":"any-fn","vers":"0.6.1","deps":[],"cksum":"d377ccaf91b251c22c0087108fd7a82f633cec8ffa47c261336b1f6fafd191db","features":{},"yanked":false}
 {"name":"any-fn","vers":"0.6.2","deps":[],"cksum":"46169ad4664b519c70545325148d6174d2b131ae9ccc9ec5090721d89336d544","features":{},"yanked":false}
+{"name":"any-fn","vers":"0.6.3","deps":[],"cksum":"f5d8d506ffb9284d68fcc8c26fe695d0a9115acc6059e7c98ab48a79cb24a08a","features":{},"yanked":false}
