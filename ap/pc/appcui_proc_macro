@@ -9,3 +9,4 @@
 {"name":"appcui_proc_macro","vers":"0.1.8","deps":[],"cksum":"fb9d45f704f34397d76f49ee633eac006eb5c1d79712bc403b428fb47684a545","features":{},"yanked":false}
 {"name":"appcui_proc_macro","vers":"0.1.9","deps":[],"cksum":"a2ea6b77d347e30cd6e93b93712ca938c71b01d501fd17ab69cf686c7e8ba60d","features":{},"yanked":false}
 {"name":"appcui_proc_macro","vers":"0.2.0","deps":[],"cksum":"3d8689b97e90f8f5518e88baf0c3f22d8eb3f3638d2290bfa68ccbd4f268d10e","features":{},"yanked":false}
+{"name":"appcui_proc_macro","vers":"0.2.1","deps":[],"cksum":"ab93bb9bff308abfac8d146cb29e5c10d48ed02bd500e32795d0663b9c924baa","features":{},"yanked":false}
