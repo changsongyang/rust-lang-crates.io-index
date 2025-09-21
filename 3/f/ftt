@@ -1,1 +1,2 @@
 {"name":"ftt","vers":"0.1.0","deps":[{"name":"log","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"009464e5837e13e2de02d9286f0fcc558aeee020c9da2a1ff9b4ab16ed6fcb1e","features":{},"yanked":false}
+{"name":"ftt","vers":"0.1.1","deps":[{"name":"log","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"21d1afa2c51f96b4e04049099805458ad4025fdbd0099c65bef399e712e246cb","features":{},"yanked":false}
