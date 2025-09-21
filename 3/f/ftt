@@ -1,0 +1,1 @@
+{"name":"ftt","vers":"0.1.0","deps":[{"name":"log","req":"^0.4","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"009464e5837e13e2de02d9286f0fcc558aeee020c9da2a1ff9b4ab16ed6fcb1e","features":{},"yanked":false}
