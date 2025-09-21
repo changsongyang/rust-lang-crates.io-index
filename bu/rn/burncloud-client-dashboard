@@ -1,0 +1,1 @@
+{"name":"burncloud-client-dashboard","vers":"0.1.0","deps":[{"name":"dioxus","req":"^0.6.3","features":["desktop"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"12839cec1a6db2597d6b87d18f685ceb45e977eeb6708d64907d10f67506a257","features":{},"yanked":false}
