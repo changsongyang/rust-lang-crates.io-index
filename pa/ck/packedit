@@ -7,3 +7,4 @@
 {"name":"packedit","vers":"1.0.5","deps":[],"cksum":"7fe06164de352179a57dd560d11408f02527fdbdfa8a0fc34613c0ebf1458936","features":{},"yanked":false}
 {"name":"packedit","vers":"1.0.9","deps":[{"name":"paste","req":"^1.0.15","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"10d3d992c37256bf20b19d90e8ffe175b5d143534fc72c61b0969c88ea16805b","features":{"default":[],"legacy":["legacy-arp"],"legacy-arp":[]},"yanked":false}
 {"name":"packedit","vers":"1.1.0","deps":[],"cksum":"570da0c515f5e9ae299018756793e5b5e775cddad12baf675797c258b733bc95","features":{"advanced":["advanced-arp"],"advanced-arp":[],"default":[]},"yanked":false}
+{"name":"packedit","vers":"1.1.1","deps":[],"cksum":"6e50b1d60561eb4003354be5a6d8c66191d40ed32dcb2e8d7ffab8b9fa32a263","features":{"advanced":["advanced-arp"],"advanced-arp":[],"default":[]},"yanked":false}
