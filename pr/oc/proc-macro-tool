@@ -58,3 +58,4 @@
 {"name":"proc-macro-tool","vers":"0.8.38","deps":[],"cksum":"aa8d188eefbd76bd1756fc369f000a7997b71e0687934a02bb0e14dcc18617f3","features":{},"yanked":false}
 {"name":"proc-macro-tool","vers":"0.8.39","deps":[],"cksum":"5cae1e3d858a5fbc92fcf9ba2f404f2729d0924dcdc5bd89aa0e4d0435b15f3d","features":{},"yanked":false}
 {"name":"proc-macro-tool","vers":"0.8.40","deps":[],"cksum":"e5cb472402640ea51c2a9e3cfc3306da2afd5ab9811497f2b0e2bb6933c2c50e","features":{},"yanked":false}
+{"name":"proc-macro-tool","vers":"0.8.41","deps":[],"cksum":"79f0d66bfbaec9ef0e15b42d14fd55ccf97911c27b7c3806c5790aebc29b0263","features":{},"yanked":false}
