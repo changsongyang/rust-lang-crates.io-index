@@ -1,1 +1,2 @@
 {"name":"git-insights","vers":"0.0.1","deps":[],"cksum":"c72803cf93b5b797fbfc73476843a43b36b22e77d2efc05d962321d006699d23","features":{},"yanked":false}
+{"name":"git-insights","vers":"0.0.2","deps":[{"name":"regex","req":"^1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"31831ad98fbefac745b310c33adbf68f7420bba96f16181b800b8adcf8c0cee7","features":{},"yanked":false}
