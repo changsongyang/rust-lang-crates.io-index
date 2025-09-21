@@ -1,0 +1,1 @@
+{"name":"concurrent-pool","vers":"0.1.0","deps":[{"name":"crossbeam-queue","req":"^0.3.12","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"ef532d79773cb44b186538e7c86072204c0ac056ea1378372c47787d2e92893e","features":{},"yanked":false}
