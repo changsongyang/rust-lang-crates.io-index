@@ -16,3 +16,4 @@
 {"name":"km-crates-publish-test","vers":"1.21.0","deps":[],"cksum":"eb04d8f8850e6ed5448bf3926b6d24e67fe841d72e986c4865b9c44b19b8de1f","features":{},"yanked":false,"rust_version":"1.90.0"}
 {"name":"km-crates-publish-test","vers":"1.22.0","deps":[],"cksum":"42c15b18bd5bd1eaa3b929fd3dd7dcc58bf945d2a8b7f2ee4eacfd5e4dd5b944","features":{},"yanked":false,"rust_version":"1.90.0"}
 {"name":"km-crates-publish-test","vers":"1.23.0","deps":[],"cksum":"dd8680c4075e87e889f800968ef9c6c3f01fe62834bf6f321bc27136a307adfc","features":{},"yanked":false,"rust_version":"1.90.0"}
+{"name":"km-crates-publish-test","vers":"1.24.0","deps":[],"cksum":"d94334d11af0694e78c2a1e43198f993281ff8f19df326c48d781e0a681f2597","features":{},"yanked":false,"rust_version":"1.90.0"}
