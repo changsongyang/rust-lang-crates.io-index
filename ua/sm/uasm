@@ -1,1 +1,2 @@
 {"name":"uasm","vers":"1.0.0","deps":[{"name":"cc","req":"^1.2.38","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"74388f16f861fad450f6901756c076c5c2e35527b5fa767ef6fefb637d61788e","features":{},"yanked":false}
+{"name":"uasm","vers":"1.0.1","deps":[{"name":"cc","req":"^1.2.38","features":[],"optional":false,"default_features":true,"target":null,"kind":"build"}],"cksum":"b0fff3dac7bee470b25336d37d6a58505e935f57ea39ce70ebc8ab57744c9843","features":{},"yanked":false}
