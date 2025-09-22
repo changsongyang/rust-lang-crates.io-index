@@ -9,3 +9,4 @@
 {"name":"halt","vers":"2.0.1","deps":[],"cksum":"2bbe8fbe5fa4892c0ddd6a56462c526c0d30da9b381e2ce55ee415164416964e","features":{},"yanked":false}
 {"name":"halt","vers":"2.0.2","deps":[],"cksum":"7e40be7f49ba8fecf6b531aabf39b74ae00ab923e2eb823335509f65466cedf9","features":{},"yanked":false}
 {"name":"halt","vers":"3.0.0","deps":[],"cksum":"bdc42dbc298f478493b9f2324bfa44f26c313404933507b3bb04fc91c633cf31","features":{},"yanked":false}
+{"name":"halt","vers":"3.0.1","deps":[],"cksum":"26183d8785cb38fcf7add72e105f10be2343a5fcb27cae0963d46233e75a1357","features":{},"yanked":false}
