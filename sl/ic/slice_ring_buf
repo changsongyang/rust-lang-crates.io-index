@@ -12,3 +12,4 @@
 {"name":"slice_ring_buf","vers":"0.2.7","deps":[],"cksum":"b8c4361c250fd000889a89f4ca721808588f0eaeb3b1d6efd7201a21ae8ee469","features":{},"yanked":false}
 {"name":"slice_ring_buf","vers":"0.3.0","deps":[],"cksum":"915533b09a3a2aeaff0952470dd92c6f885086d6e8f3e82b4441affbfe87f7ce","features":{"alloc":[],"default":["alloc"]},"yanked":false}
 {"name":"slice_ring_buf","vers":"0.3.1","deps":[],"cksum":"559f309b3387bcf2dc3f7faec48c2b14a25ac2ce4cb5ea36e60162b718e3f470","features":{"alloc":[],"default":["alloc"]},"yanked":false}
+{"name":"slice_ring_buf","vers":"0.3.2","deps":[],"cksum":"3cd6db7fe3939155b6a220cca745c2558254c21bca0e461394fe2d081253fc33","features":{"alloc":[],"default":["alloc"]},"yanked":false}
