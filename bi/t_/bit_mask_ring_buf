@@ -28,3 +28,4 @@
 {"name":"bit_mask_ring_buf","vers":"0.5.3","deps":[],"cksum":"b3ee54e6ad528b634610bc6cc245df4a46b39c4f83c1b993a0360486b5a8d365","features":{},"yanked":false}
 {"name":"bit_mask_ring_buf","vers":"0.6.0","deps":[],"cksum":"0b1da9b35b4acab7d08292ad8f17e804468a9a40a0dc54d862396ea18088a2eb","features":{"alloc":[],"default":["alloc"]},"yanked":false}
 {"name":"bit_mask_ring_buf","vers":"0.6.1","deps":[],"cksum":"875cbaa78b338144cf960d5894cec7576a2510d66841c323eab07f30f99aa70e","features":{"alloc":[],"default":["alloc"],"interpolation":[]},"yanked":false}
+{"name":"bit_mask_ring_buf","vers":"0.6.2","deps":[],"cksum":"ac85b1322307fc253c24060df1e8b4e8ea681e13d2d02d14f59dbdf9f64b0e13","features":{"alloc":[],"default":["alloc"],"interpolation":[]},"yanked":false}
