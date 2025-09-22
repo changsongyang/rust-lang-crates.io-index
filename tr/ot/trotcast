@@ -1,3 +1,3 @@
-{"name":"trotcast","vers":"0.0.0","deps":[],"cksum":"2c4c03b73c8023c94eb393683a28fafe2a425407899a500ff533f2498ec2655f","features":{},"yanked":false}
+{"name":"trotcast","vers":"0.0.0","deps":[],"cksum":"2c4c03b73c8023c94eb393683a28fafe2a425407899a500ff533f2498ec2655f","features":{},"yanked":true}
 {"name":"trotcast","vers":"0.0.1","deps":[],"cksum":"d5c510a7db6b39feae75fd110c5b877f1a63b2caaa57f783387003e7662be002","features":{},"yanked":true}
 {"name":"trotcast","vers":"0.0.2","deps":[],"cksum":"3219eae2d1b755a10ec651e82b347e064e1a9db55d12a97c6277dc2d9adffb14","features":{},"yanked":false}
