@@ -17,3 +17,4 @@
 {"name":"cspsolver","vers":"0.5.17","deps":[],"cksum":"25d00a2c87fecd6144eacf48b7ec218e4eb6ac307747872654c95926894ea3e9","features":{},"yanked":false,"rust_version":"1.88"}
 {"name":"cspsolver","vers":"0.6.0","deps":[],"cksum":"8446b36b06cc86d04127753d7e2c8f32bc4f4d449eec82f22aaa93f5377d80be","features":{},"yanked":false,"rust_version":"1.88"}
 {"name":"cspsolver","vers":"0.7.0","deps":[],"cksum":"157c2c38b23dde0d6034ad9fdfc838758eb1a422a49e0feb9bbf1dfb5c5b6f16","features":{},"yanked":false,"rust_version":"1.88"}
+{"name":"cspsolver","vers":"0.7.3","deps":[],"cksum":"4431d1934b9e7dc58d63ee3a3d20e1fc1db91d77cb893a4d3bea9584ff31bfe4","features":{},"yanked":false,"rust_version":"1.88"}
