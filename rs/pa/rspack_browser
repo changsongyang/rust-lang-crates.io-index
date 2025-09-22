@@ -7,3 +7,4 @@
 {"name":"rspack_browser","vers":"0.5.3","deps":[],"cksum":"9521ae52f996faaf8a955e7aa8f1e63555df7fef337de0042ec47f38eb058297","features":{},"yanked":false}
 {"name":"rspack_browser","vers":"0.5.4","deps":[],"cksum":"45c3b872a09c8796b19b12cc1f605f451158040b1a69b2e2db54f1b3e3c0aa48","features":{},"yanked":false}
 {"name":"rspack_browser","vers":"0.5.5","deps":[],"cksum":"97e24c2ef912b96a4686d594e2915def0e689ab9c27d1eb77f0f030bf18f0058","features":{},"yanked":false}
+{"name":"rspack_browser","vers":"0.5.6","deps":[],"cksum":"e9c777cdb700effad653fe67ec488b58834b922ccce263535b05d924c22d3d31","features":{},"yanked":false}
