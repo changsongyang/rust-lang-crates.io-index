@@ -1,0 +1,1 @@
+{"name":"polycvss","vers":"0.1.0","deps":[{"name":"serde","req":"^1.0","features":["derive"],"optional":true,"default_features":true,"target":null,"kind":"normal"}],"cksum":"bffc4b96f2323dd4ae2b8b53b521dc9bd60fae78eaee9770a306ff8b2ba2d9e0","features":{},"yanked":false}
