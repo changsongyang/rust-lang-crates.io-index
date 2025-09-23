@@ -6,3 +6,4 @@
 {"name":"xyo-http","vers":"1.0.2","deps":[],"cksum":"d0086dcf3d7e7eff68cc5aac1305999efec94a1f71a25d7efc7b612aaa154ff4","features":{},"yanked":false}
 {"name":"xyo-http","vers":"1.1.0","deps":[],"cksum":"6f502f324ecec40552e5b21db5c4e9cda31e62fe9d0fc268bdcba5e7373f366b","features":{},"yanked":false}
 {"name":"xyo-http","vers":"1.1.1","deps":[],"cksum":"76cc08f1d3dd2a7b9faeb18d3bfc3929a44f9dc6a91fef90bd89fe1bf8a96cc3","features":{},"yanked":false}
+{"name":"xyo-http","vers":"1.1.2","deps":[],"cksum":"8864e5b522898e9969817663ca50a31340056b4089a15c6c77ffbffdafcc5028","features":{},"yanked":false}
