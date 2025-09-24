@@ -3,5 +3,5 @@
 {"name":"ospl","vers":"0.0.11","deps":[],"cksum":"0a71e4c5fdc1c8e6073ca19ac721ba5598fab7d398075060c271a6e44bd184bb","features":{},"yanked":false}
 {"name":"ospl","vers":"0.0.12","deps":[],"cksum":"10e206c1d4aba46dc2f79d9a238fceea7b56e77d027b9325ded940d331801ad8","features":{},"yanked":false}
 {"name":"ospl","vers":"0.0.13","deps":[],"cksum":"ded1829ea12f0c81a2b1b6c530943693fa03b91c5dd184118b2b7bb1e806ac35","features":{},"yanked":false}
-{"name":"ospl","vers":"0.0.14","deps":[],"cksum":"e72e4b58fa0b0b72a63de16e1d9ba859dcb2e8f4f8e6f1e0c4652479be6b6311","features":{},"yanked":false}
+{"name":"ospl","vers":"0.0.14","deps":[],"cksum":"e72e4b58fa0b0b72a63de16e1d9ba859dcb2e8f4f8e6f1e0c4652479be6b6311","features":{},"yanked":true}
 {"name":"ospl","vers":"0.0.15","deps":[],"cksum":"3dccc299a12b2e0df79e16e18e2248de12cb84cbcd50c9848e02078be09dad8b","features":{},"yanked":false}
