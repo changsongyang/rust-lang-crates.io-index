@@ -1,1 +1,2 @@
 {"name":"bytecraft","vers":"0.1.0","deps":[],"cksum":"64f0fb6553df958ee71244c269da4dfdc1703d5fc3ad39f0ef7551464c69542b","features":{},"yanked":false,"rust_version":"1.89.0"}
+{"name":"bytecraft","vers":"0.2.0","deps":[],"cksum":"2d60bdc182083187aec2ffa0f7f360260bf88bcaa6bea148325e1158d6c3ebc6","features":{},"yanked":false,"rust_version":"1.89.0"}
