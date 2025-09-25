@@ -1,0 +1,1 @@
+{"name":"staging_macro","vers":"0.1.0","deps":[{"name":"staging_core","req":"=0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"44379c5c753d26ac010c391572063317138c24944ed5dcf0b359fc4dd377da4b","features":{},"yanked":false,"rust_version":"1.89.0"}
