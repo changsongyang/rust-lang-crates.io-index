@@ -10,3 +10,4 @@
 {"name":"ospl","vers":"0.0.18","deps":[],"cksum":"c838e0984675b90abc8807893f8c4a1bf535cadc9f75582307ac4bd6b20b00bf","features":{},"yanked":false}
 {"name":"ospl","vers":"0.0.19","deps":[],"cksum":"af93942640f4d8cec00690b0572e19b9e4b7f7bd4470947d261940abfe591ae4","features":{},"yanked":false}
 {"name":"ospl","vers":"0.0.20","deps":[],"cksum":"2dc7443c176a454ac3c2eb2110c0bcb91e3879fb88366babf3cf3a8dd2027df2","features":{},"yanked":true}
+{"name":"ospl","vers":"0.0.21","deps":[],"cksum":"5eda5bd45ff651226ec8477bc610a28951177c3ee8761a0f107e087a02ead7b2","features":{},"yanked":false}
