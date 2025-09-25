@@ -1,1 +1,2 @@
 {"name":"selen","vers":"0.8.0","deps":[],"cksum":"54f1c21ec1543c936c5a29ecdc18bd071d5b5b200d5b2fa23c43e404e3a41636","features":{},"yanked":false,"rust_version":"1.88"}
+{"name":"selen","vers":"0.8.1","deps":[],"cksum":"ba5ad9f0063eef4b68116d99ba3a43f1d1c2df694cd0ad38d1119f9fcee1f294","features":{},"yanked":false,"rust_version":"1.88"}
