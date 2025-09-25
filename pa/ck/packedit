@@ -10,3 +10,4 @@
 {"name":"packedit","vers":"1.1.1","deps":[],"cksum":"6e50b1d60561eb4003354be5a6d8c66191d40ed32dcb2e8d7ffab8b9fa32a263","features":{"advanced":["advanced-arp"],"advanced-arp":[],"default":[]},"yanked":false}
 {"name":"packedit","vers":"1.1.9","deps":[],"cksum":"c4eaf6031a57aaa1cdd6d90d7127cf51014a84c4f4667d99c93e4556dc2a9e5a","features":{"advanced":["advanced-arp"],"advanced-arp":[],"default":[]},"yanked":false}
 {"name":"packedit","vers":"1.2.0","deps":[],"cksum":"b017977c1aa8bc857c32d53d805a637feefb72752c09794953f2da1703e09ae6","features":{"advanced":["advanced-arp"],"advanced-arp":[],"default":[]},"yanked":false}
+{"name":"packedit","vers":"1.2.1","deps":[],"cksum":"5d5828eea252af83f9e10e54bda31cb96324ea0a3ce901738e3a5e61a3fc0741","features":{"advanced":["advanced-arp"],"advanced-arp":[],"default":[]},"yanked":false}
