@@ -4,3 +4,4 @@
 {"name":"pi_ordmap","vers":"0.2.2","deps":[],"cksum":"b8513169485f47a39f3d27ea458104ecdc080c154d78bfe23b0e295cb673397b","features":{},"yanked":false}
 {"name":"pi_ordmap","vers":"0.3.0","deps":[],"cksum":"8ebef7e6c8e8656820e9beba1ee1c4150dbfb0e5157b56ebcba8eb0fa71df2a3","features":{},"yanked":false}
 {"name":"pi_ordmap","vers":"0.3.1","deps":[],"cksum":"d73a89c78b80fe9434398033ec9cc003520c0c2024d26d85516e0ecde1389df9","features":{},"yanked":false}
+{"name":"pi_ordmap","vers":"0.3.2","deps":[],"cksum":"98639e428913a1d0e72d6bdf88e434a7594cc4445aac9991278b4dc4bf1d0f79","features":{},"yanked":false}
