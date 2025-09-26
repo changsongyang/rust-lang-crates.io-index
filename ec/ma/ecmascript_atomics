@@ -1,0 +1,1 @@
+{"name":"ecmascript_atomics","vers":"0.1.0","deps":[{"name":"ecmascript_atomics_gen_copy","req":"=0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"cfcd90b96fc17a76bad66529d0ebc6c858f08549edebed25d148a22c41fe1f30","features":{},"yanked":false}
