@@ -1,0 +1,1 @@
+{"name":"num-literal-traits","vers":"0.1.0","deps":[{"name":"num-traits","req":"^0.2.19","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"aa270e1717a148678c526430d5473719da57acc9abda9133a41d906875e75d9b","features":{},"yanked":false}
