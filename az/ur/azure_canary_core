@@ -1,1 +1,2 @@
 {"name":"azure_canary_core","vers":"1.0.0-beta.5385174","deps":[],"cksum":"a95990bc9964b9219d8f0715e922b5cf86ed7316a52c274097af2836c457817d","features":{},"yanked":false,"rust_version":"1.85"}
+{"name":"azure_canary_core","vers":"1.0.0-beta.5391524","deps":[],"cksum":"771107aace8adf231d174c885da960293d6e8dd59263ca779df8febe3f19793c","features":{},"yanked":false,"rust_version":"1.85"}
