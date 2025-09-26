@@ -1,0 +1,1 @@
+{"name":"vex-sdk-mock","vers":"0.0.1","deps":[{"name":"vex-sdk","req":"^0.27.1","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d55283baa551435a728ee5dd0bd592f99ae163fa66c952219a9ae80978b8764c","features":{},"yanked":false}
