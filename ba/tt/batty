@@ -1,0 +1,1 @@
+{"name":"batty","vers":"0.1.0","deps":[{"name":"clap","req":"^4","features":["derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"9861aefee7f39b6f0aaab360c4d5e4780abf246cbdae7fae08cf68474d72cae3","features":{},"yanked":false}
