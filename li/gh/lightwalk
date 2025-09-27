@@ -1,0 +1,1 @@
+{"name":"lightwalk","vers":"0.1.0","deps":[{"name":"glam","req":"^0.30.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"},{"name":"num","req":"^0.4.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"efbff884f137b7bfe96cc9652af0da647f810f2ebe93bbe91a7782044f40c92d","features":{},"yanked":false}
