@@ -1,0 +1,1 @@
+{"name":"bevy_third_person_camera_2","vers":"0.1.0","deps":[{"name":"bevy","req":"^0.16","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"3a43c0ccfdba77f44f7f6d7ace7d61e87a61ddd77852ea2897dd8608d879384a","features":{},"yanked":false}
