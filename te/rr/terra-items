@@ -4,3 +4,4 @@
 {"name":"terra-items","vers":"0.2.2","deps":[],"cksum":"6028d19fb09e0c2c4f413dd9bed7b9df901632c7e7bb7276049e1485aeca9d13","features":{},"yanked":false}
 {"name":"terra-items","vers":"0.2.3","deps":[{"name":"terra-types","req":"^0.2.2","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"774ef18cc94875d81256914a0420b9ad2c94d19ce6b2dfffd445e1500b487cb8","features":{},"yanked":false}
 {"name":"terra-items","vers":"0.2.4","deps":[{"name":"terra-types","req":"^0.2.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"8545145e9283e48b7a76ddff1a48609c6c4334110ab98a0b47f93e1963341703","features":{},"yanked":false}
+{"name":"terra-items","vers":"0.2.5","deps":[{"name":"terra-types","req":"^0.2.3","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d09822bb61acb791adbb5672c5c00ed127ffdf5e3b3878cd5d97be715d9ec109","features":{},"yanked":false}
