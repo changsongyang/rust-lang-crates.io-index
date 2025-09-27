@@ -28,3 +28,4 @@
 {"name":"millisecond","vers":"0.15.0","deps":[],"cksum":"9eb84cebf2656cd9d5ec2e96aa5b27c35df419fc86f8e3c31e7bfbcdb5f1abc6","features":{},"yanked":false}
 {"name":"millisecond","vers":"0.15.1","deps":[],"cksum":"235db692821c90894ccf0ac5c58d854f048e9e234dc45907a6224db8181b9c8c","features":{},"yanked":true}
 {"name":"millisecond","vers":"0.15.2","deps":[],"cksum":"47926aaf6eb0c52cf6e829d7b31c6196b6ccdb89f2f8912a1f12f98fc46003fc","features":{},"yanked":false}
+{"name":"millisecond","vers":"0.15.3","deps":[],"cksum":"259434a922f881a45b61c8d3c87df22948dc5dfb21188cc90633b2fbb7712402","features":{},"yanked":false}
