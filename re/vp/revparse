@@ -25,3 +25,4 @@
 {"name":"revparse","vers":"2.2.5","deps":[],"cksum":"207754ab51525430fffac9aea06d8a8974768b41f00d351f47f44107c084ddad","features":{},"yanked":false}
 {"name":"revparse","vers":"3.0.0","deps":[{"name":"revparse_derive","req":"^1.0.6","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"7b66ac9f7f8792017e2c25c8fcbdf038cc5bdef9ec8bdfabbba94298dbd307e1","features":{},"yanked":true}
 {"name":"revparse","vers":"3.0.1","deps":[{"name":"revparse_derive","req":"^1.0.7","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"4b0a3a8dc45304f29c0a529f220994f5ef913e9ea6875bfc1e3f3b8ad5df16cf","features":{},"yanked":false}
+{"name":"revparse","vers":"3.0.2","deps":[{"name":"revparse_derive","req":"^1.0.8","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"d88830630ada916c59b7b96f83ff53417c62bc89b87bf249f78a6ae2f703277e","features":{},"yanked":false}
