@@ -1,2 +1,0 @@
-{"name":"mk-buddy","vers":"0.0.0","deps":[],"cksum":"30b7e4d1a60114b8ae008216a599d6269fdf7dca028dd5e4b455003aee163946","features":{},"yanked":false}
-{"name":"mk-buddy","vers":"0.1.0","deps":[{"name":"mallockit","req":"^0.1.0","features":[],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"a157273daf4fd7af54c9b8d9cd027fec35403409ed45387e30e4c42dda3fe56f","features":{"default":[],"malloc":[]},"yanked":false}
