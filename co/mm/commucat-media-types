@@ -1,0 +1,1 @@
+{"name":"commucat-media-types","vers":"1.0.50","deps":[{"name":"serde","req":"^1.0","features":["derive","derive"],"optional":false,"default_features":true,"target":null,"kind":"normal"}],"cksum":"de041acb6dd0cc198ae589e42bb284e807c5a874e4ab36bf88daea0180c4b4cd","features":{},"yanked":false}
